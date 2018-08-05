@@ -1,0 +1,27 @@
+.intro h1{
+  color: #C0C0C0;
+  text-align: center;
+  padding: 20px 10px 20px;
+  margin: 20px 10px 20px;
+
+
+}
+
+.image {
+  float:left;
+  padding: 10px 40px 20px 2px;
+}
+.main{
+  color:
+}
+body{
+  background-image: url("computer.jpg");
+  color:white;
+  line-height: 2.0;
+}
+.section {
+  padding-top: 150px;
+}
+.links{
+  padding:50px 50px 50px 50px;
+}
