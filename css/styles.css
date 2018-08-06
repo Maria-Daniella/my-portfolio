@@ -24,6 +24,10 @@ body{
 .section {
   padding-top: 150px;
 }
+.skills{
+  float:right;
+  padding: 20px 10px 20px;
+}
 .links{
   padding:50px 50px 50px 50px;
 }
