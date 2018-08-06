@@ -15,7 +15,9 @@
   color:
 }
 body{
-  background-image: url("computer.jpg");
+  background-image: url("../images/computer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   color:white;
   line-height: 2.0;
 }
